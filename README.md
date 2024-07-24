@@ -6,7 +6,7 @@ Follow these steps to set up your development environment:
 
     First, clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-repository/sentinel.git
+    git clone https://github.com/Foozer/sentinel.git
     cd sentinel
     ```
 2. **Create a Virtual Environment**
